@@ -147,6 +147,7 @@ public class Calculadora {
         System.out.println(num1 + " X " + num2 + " = " + resultado);
         System.out.println(".");
         
+        
     }
 
     //metodo que faz o calculo de subtração
